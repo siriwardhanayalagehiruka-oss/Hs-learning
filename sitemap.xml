@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/index.html</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/portfollio.html</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/about.html</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/contact.html</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/cases.html</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://siriwardhanayalagehiruka-oss.github.io/Hs-learning/cases1.html</loc>
+  <lastmod>2026-06-19T21:34:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
