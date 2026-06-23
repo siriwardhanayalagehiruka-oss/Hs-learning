@@ -1,0 +1,24 @@
+#rewrite function is starting from the below code that means making .html invisible
+
+RewriteEngine on
+
+#the code below means Only apply the rewrite rule if the requested item is NOT a directory (folder).
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#what the below code do is Check if a file with .html added to the requested name exists
+
+RewriteCond %{REQUEST_FILENAME}\.html -f
+
+#the code below means Whatever page the visitor requests, try adding .html to the end and load that file.and allso NC means Uppercase and lowercase are treated the same. and L means Stop processing any more rewrite rules if this one matches.
+
+RewriteRule ^(.*)$ $1.html [NC,L]
+
+
+
+
+
+
+#the code below is use to add 404 page
+
+ErrorDocument 404 /not-found-page.html
